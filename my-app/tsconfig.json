@@ -23,7 +23,7 @@
     ],
     "paths": {
       "@angular/*": ["./node_modules/@angular/*"],
-      "my-lib": ["../my-lib/projects/my-lib/src/lib/my-lib.module.ts"],
+      //"my-lib": ["../my-lib/projects/my-lib/src/lib/my-lib.module.ts"],
       
     }
   },
