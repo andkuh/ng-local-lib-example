@@ -1,4 +1,4 @@
-import { BaseUrlService } from 'ng-primer-web-core';
+import { BaseUrlService } from 'my-lib';
 
 export class LinerUrlService extends BaseUrlService{
   getBaseUrl(): string{
