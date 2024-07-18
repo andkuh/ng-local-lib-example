@@ -22,7 +22,9 @@
       "dom"
     ],
     "paths": {
-      "my-lib": ["../my-lib/projects/my-lib/src/lib/my-lib.module.ts"]
+      "@angular/*": ["./node_modules/@angular/*"],
+      "my-lib": ["../my-lib/projects/my-lib/src/lib/my-lib.module.ts"],
+      
     }
   },
   "angularCompilerOptions": {
