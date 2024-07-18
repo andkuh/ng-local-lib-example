@@ -21,7 +21,7 @@
     "rxjs": "~6.6.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4",
-    "my-lib": "../my-lib/dist/my-lib"
+    "my-lib": "file:../my-lib/dist/my-lib"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~13.3.11",
