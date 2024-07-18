@@ -22,7 +22,7 @@
       "dom"
     ],
     "paths": {
-      "ng-primer-web-core": ["../my-lib/projects/my-lib/src/lib/my-lib.module.ts"]
+      "my-lib": ["../my-lib/projects/my-lib/src/lib/my-lib.module.ts"]
     }
   },
   "angularCompilerOptions": {
